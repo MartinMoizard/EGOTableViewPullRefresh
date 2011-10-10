@@ -1,0 +1,3 @@
+Added the ability to set a custom EdgeInset to the underlying scrollView of the EGOTableViewPullRefresh.
+
+Just use the defaultEdgeInset property.
